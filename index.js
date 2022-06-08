@@ -10,7 +10,7 @@ function namedFunction(){
 }
 function returnsAnAnonymousFunction(){
     return function (){
-console.log("")
+    console.log("")
 
     }
     
